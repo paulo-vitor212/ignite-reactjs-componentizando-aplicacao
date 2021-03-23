@@ -19,4 +19,4 @@ O WatchMe foi criado com **HTML/SCSS/JS**, onde foi usado às principais seguint
     - `npm run dev` OR `yarn dev`
 5. visitar a página http://localhost:8080/ no seu browser.
 
-![Application](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/10783a0f-e3a7-4991-8bb5-43f73508431f/demo.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210323T143056Z&X-Amz-Expires=86400&X-Amz-Signature=d19d36b705e617355592f33014d80d458f74fd01baeee61547977176f21064f7&X-Amz-SignedHeaders=host)
+![Application](https://raw.githubusercontent.com/paulinho68/ignite-reactjs-componentizando-aplicacao/main/assets/print.png)
